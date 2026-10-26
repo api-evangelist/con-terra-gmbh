@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-con terra GmbH is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.conterra.de
+con terra GmbH is a German GeoIT integrator offering solutions and services around geodata, digital transformation, GeoAI, digital twins, and cloud-based data integration for public administration, infrastructure operators, and enterprises. The company connects geodata, expert information, and leading technologies to deliver tailored solutions, emphasizing innovation and sustainability in the geospatial domain.
+
+**Areas:** Company · GeoIT · Data Integration · Digital Transformation · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.conterra.de)
+- [Documentation](https://docs.conterra.de/)
+- [Security](https://trust.conterra.de)
+- [Compliance](https://www.conterra.de/trust)
+- [GitHub](https://github.com/conterra)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/con-terra-gmbh/](https://apis.io/providers/con-terra-gmbh/).
